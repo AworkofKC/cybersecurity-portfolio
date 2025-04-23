@@ -17,7 +17,8 @@ Currently completing the Google Cybersecurity Certificate – **Course 1 complet
 
 ## 📚 Coursework Progress
 - ✅ Course 1: Foundations of Cybersecurity - Complete
-- 🔄 Course 2: Play It Safe – Exploring Security Concepts
+- ✅ Course 2: Play It Safe – Manage Security Risks - Complete
+- 🔄Connect and Protect: Networks and Network Security
 - 🚧 More in progress...
 
 ## 🧪 Projects & Labs (Coming Soon)
