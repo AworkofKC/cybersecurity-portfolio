@@ -9,11 +9,14 @@ I’m KC - aka @AworkofKC — an analytical mind with a creative heart. I’m bu
 Welcome! I'm on a mission to protect, audit, and analyze in the digital world.  
 Currently completing the Google Cybersecurity Certificate – **Course 1 complete ✅**
 
-## 🧭 My Focus
-- Security Auditing & Risk Assessments
-- Compliance & Governance
-- Threat Detection & Prevention
-- SOC Fundamentals
+## Areas of Focus (In Progress)
+
+- SOC Fundamentals  
+- Risk & Vulnerability Management  
+- Compliance & Governance  
+- Cybersecurity Fundamentals  
+- Introduction to Penetration Testing & Red Teaming
+
 
 ## 📚 Coursework Progress
 - ✅ Course 1: Foundations of Cybersecurity - Complete
