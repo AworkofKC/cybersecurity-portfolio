@@ -9,13 +9,16 @@ I’m KC - aka @AworkofKC — an analytical mind with a creative heart. I’m bu
 Welcome! I'm on a mission to protect, audit, and analyze in the digital world.  
 Currently completing the Google Cybersecurity Certificate – **Course 3 complete ✅**
 
-## Areas of Focus (In Progress)
 
-- SOC Fundamentals  
-- Risk & Vulnerability Management  
-- Compliance & Governance  
+## Areas of Focus/Interest
+
 - Cybersecurity Fundamentals  
-- Introduction to Penetration Testing & Red Teaming
+- Security Operations (SOC) Fundamentals
+- Risk & Vulnerability Management
+- Compliance & Governance
+- Incident Response & Digital Forensics
+- Penetration Testing & Red Teaming Basics
+
 
 
 ## 📚 Coursework Progress
@@ -27,9 +30,8 @@ Currently completing the Google Cybersecurity Certificate – **Course 3 complet
 
 
 ## 🧠 Hands-On Practice
-- Gaining real-world experience through platforms like **TryHackMe**, focusing on Cybersecurity foundations, Penetration testing, and Red and blue team tactics.
-- **Hands-on progress**
-- 🔄 Pre-Security Path- In progress
+- Practicing on TryHackMe: Cybersecurity foundations, red/blue team tactics, and penetration testing.
+- 🔄 **Pre-Security Path-** In progress
 
 ## 🛠️ Tools I'm Learning
 - SQL
