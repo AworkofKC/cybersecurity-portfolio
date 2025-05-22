@@ -7,7 +7,7 @@ I’m KC - aka @AworkofKC — an analytical mind with a creative heart. I’m bu
 ---
 
 Welcome! I'm on a mission to protect, audit, and analyze in the digital world.  
-Currently completing the Google Cybersecurity Certificate – **Course 1 complete ✅**
+Currently completing the Google Cybersecurity Certificate – **Course 3 complete ✅**
 
 ## Areas of Focus (In Progress)
 
@@ -27,7 +27,9 @@ Currently completing the Google Cybersecurity Certificate – **Course 1 complet
 
 
 ## 🧠 Hands-On Practice
-- Gaining real-world experience through platforms like **TryHackMe**, focusing on Penetration testing, Red team tactics, and SOC fundamentals.
+- Gaining real-world experience through platforms like **TryHackMe**, focusing on Cybersecurity foundations, Penetration testing, and Red and blue team tactics.
+- **Hands-on progress**
+- 🔄 Pre-Security Path- In progress
 
 ## 🛠️ Tools I'm Learning
 - SQL
@@ -36,6 +38,6 @@ Currently completing the Google Cybersecurity Certificate – **Course 1 complet
 - Linux (basic terminal commands)
 
 **Professional Statement:**  
-I am a cybersecurity student with a background in web development and customer service, driven by a passion for protecting digital environments. My interest in cybersecurity was sparked by firsthand experiences with security threats, motivating me to pursue a career focused on defending systems and data. My focus is incident response, penetration testing, and threat intelligence. My goal is to help organizations stay resilient against evolving cyber threats by delivering creative, effective solutions to complex security challenges, ultimately safeguarding sensitive information and protecting company assets.
+I am a cybersecurity student with a background in web development and customer service, driven by a passion for protecting digital environments. My interest in cybersecurity was sparked by firsthand experiences with security threats, motivating me to pursue a career focused on defending systems and data. My focus is incident response, digital forensics, and penetration testing. My goal is to help organizations stay resilient against evolving cyber threats by delivering creative, effective solutions to complex security challenges, ultimately safeguarding sensitive information and protecting company assets.
 
 🌟 Motto: *In a world full of hate, show love. Just Because.*
