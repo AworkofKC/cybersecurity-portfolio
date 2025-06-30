@@ -39,6 +39,13 @@ Currently completing the Google Cybersecurity Certificate – *** 3 Courses down
 - SIEM Tools
 - Linux (basic terminal commands)
 
+## Practice Projects
+
+- [Apply Filters to SQL Queries (PDF)] (https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Apply%20filters%20to%20SQL%20queries.pdf)  
+  Hands-on SQL activity practicing `WHERE`, `AND`, `OR`, and `NOT` filters — completed as part of the Google Cybersecurity Certificate.
+
+
+
 **Professional Statement:**  
 I am a cybersecurity student with a background in web development and customer service, driven by a passion for protecting digital environments. Firsthand experiences with security threats sparked my interest in cybersecurity, motivating me to pursue a career focused on defending systems and data. My focus is response policy, digital forensics, and penetration testing. My goal is to help organizations stay resilient against evolving cyber threats by delivering creative, effective solutions to complex security challenges, ultimately safeguarding sensitive information and protecting company assets.
 
