@@ -1,13 +1,14 @@
 # 🔐 Cybersecurity Portfolio – AworkofKC
-An active and growing portfolio focused on security auditing, risk analysis, hands-on projects, and continuous learning.
+Hands-on practice, learning notes, and projects focused on threat detection and foundational cybersecurity skills.
+
 
 # 👩🏽‍💻 About Me
+I’m KC — aka @AworkofKC — an analytical mind with a creative heart. With a background in administrative and call center environments, I bring strong communication, organization, and problem-solving skills into my cybersecurity journey. I’m currently focused on learning threat detection, digital privacy, and core security principles through labs and self-guided study. This portfolio reflects my hands-on practice, learning exercises, and evolving understanding of the field.
 
-I’m KC - aka @AworkofKC — an analytical mind with a creative heart. I’m building a career in cybersecurity career rooted in GRC, privacy, and digital forensics.
 ---
 
 Welcome! I'm on a mission to protect, audit, and analyze ethically in the digital world.  
-Currently completing the Google Cybersecurity Certificate – *** 3 Courses down ✅ ***
+Currently completing the Google Cybersecurity Certificate – *** 4 Courses down ✅ ***
 
 
 ## Areas of Focus/Interest
@@ -20,12 +21,14 @@ Currently completing the Google Cybersecurity Certificate – *** 3 Courses down
 - Penetration Testing & Red Teaming Basics
 
 
-
 ## 📚 Coursework Progress
+
+Currently completing the **Google Cybersecurity Certificate** – *4 courses down ✅*
 - ✅ Course 1: Foundations of Cybersecurity - Complete
 - ✅ Course 2: Play It Safe – Manage Security Risks - Complete
 - ✅ Course 3: Connect and Protect: Networks and Network Security- Complete
-- 🔄 Course 4: Tools of the Trade: Linux and SQL...
+- ✅ Course 4: Tools of the Trade: Linux and SQL - Complete
+- 🔄 Course 5: Assets, Threats, and Vulnerabilities...
 - 🚧 More in progress...
 
 
@@ -37,7 +40,7 @@ Currently completing the Google Cybersecurity Certificate – *** 3 Courses down
 - SQL
 - Splunk
 - SIEM Tools
-- Linux (basic terminal commands)
+- Linux
 
 ## Practice Projects
 
@@ -47,6 +50,7 @@ Currently completing the Google Cybersecurity Certificate – *** 3 Courses down
 
 ##
 **Professional Statement:**  
-I am a cybersecurity student with a background in web development and customer service, driven by a passion for protecting digital environments. Firsthand experiences with security threats sparked my interest in cybersecurity, motivating me to pursue a career focused on defending systems and data. My focus is response policy, digital forensics, and penetration testing. My goal is to help organizations stay resilient against evolving cyber threats by delivering creative, effective solutions to complex security challenges, ultimately safeguarding sensitive information and protecting company assets.
+With a creative and administrative background, I’m now building a cybersecurity career focused on threat detection, incident response, and system defense. I’m committed to developing the technical skills needed to protect digital environments, while also bringing strong communication and problem-solving to every challenge. My goal is to help teams respond confidently to cyber threats and contribute to a safer, more resilient digital world.
+
 
 🌟 Motto: *In a world full of hate, show love. Just Because.*
