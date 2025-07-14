@@ -40,6 +40,7 @@ Currently completing the **Google Cybersecurity Certificate** – *5 courses dow
 
 ## 🛠️ Tools I'm Learning
 - SQL
+- WireShark
 - Splunk
 - SIEM Tools
 - Linux
