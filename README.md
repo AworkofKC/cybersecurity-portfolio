@@ -8,7 +8,7 @@ I’m KC — aka @AworkofKC — an analytical mind with a creative heart. With a
 ---
 
 Welcome! I'm on a mission to protect, audit, and analyze ethically in the digital world.  
-Currently completing the Google Cybersecurity Certificate – *** 4 Courses down ✅ ***
+Currently completing the Google Cybersecurity Certificate.
 
 
 ## Areas of Focus/Interest
