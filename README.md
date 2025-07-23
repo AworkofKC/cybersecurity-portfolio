@@ -35,9 +35,9 @@ Currently completing the **Google Cybersecurity Certificate** – *6 courses dow
 
 
 ## 🧠 Hands-On Practice
-- Practicing on TryHackMe: Cybersecurity foundations, red/blue team tactics, and penetration testing.
-- 🔄 **Pre-Security Path-** In progress
-- Mimo- SQL Path
+
+- **TryHackMe:** 🔄 SOC Level 1- path *In progress*
+- **Mimo:** 🔄 SQL-Path *In progress*
 
 ## 🛠️ Tools I'm Learning
 - SQL
