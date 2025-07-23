@@ -23,14 +23,15 @@ Currently completing the Google Cybersecurity Certificate – *** 4 Courses down
 
 ## 📚 Coursework Progress
 
-Currently completing the **Google Cybersecurity Certificate** – *5 courses down ✅*
+Currently completing the **Google Cybersecurity Certificate** – *6 courses down ✅*
 - ✅ Course 1: Foundations of Cybersecurity - Complete
 - ✅ Course 2: Play It Safe – Manage Security Risks - Complete
 - ✅ Course 3: Connect and Protect: Networks and Network Security- Complete
 - ✅ Course 4: Tools of the Trade: Linux and SQL - Complete
 - ✅ Course 5: Assets, Threats, and Vulnerabilities - Complete
-- 🔄 Course 6: Sound the Alarm: Detection and Response...
-- 🚧 More in progress...
+- ✅ Course 6: Sound the Alarm: Detection and Response - Complete
+- 🔄Course 7:Automate Cybersecurity Tasks with Python...
+- 
 
 
 ## 🧠 Hands-On Practice
