@@ -31,7 +31,7 @@ Currently completing the **Google Cybersecurity Certificate** – *6 courses dow
 - ✅ Course 5: Assets, Threats, and Vulnerabilities - Complete
 - ✅ Course 6: Sound the Alarm: Detection and Response - Complete
 - 🔄 Course 7: Automate Cybersecurity Tasks with Python...
-- 
+  
 
 
 ## 🧠 Hands-On Practice
