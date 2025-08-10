@@ -18,26 +18,29 @@ Currently completing the Google Cybersecurity Certificate.
 - Risk & Vulnerability Management
 - Compliance & Governance
 - Incident Response & Digital Forensics
-- Penetration Testing & Red Teaming Basics
 
 
 ## 📚 Coursework Progress
 
-Currently completing the **Google Cybersecurity Certificate** – *6 courses down ✅*
+Currently completing the **Google Cybersecurity Certificate** – *7 courses down ✅*
 - ✅ Course 1: Foundations of Cybersecurity - Complete
 - ✅ Course 2: Play It Safe – Manage Security Risks - Complete
 - ✅ Course 3: Connect and Protect: Networks and Network Security- Complete
 - ✅ Course 4: Tools of the Trade: Linux and SQL - Complete
 - ✅ Course 5: Assets, Threats, and Vulnerabilities - Complete
 - ✅ Course 6: Sound the Alarm: Detection and Response - Complete
-- 🔄 Course 7: Automate Cybersecurity Tasks with Python...
+- ✅ Course 7: Automate Cybersecurity Tasks with Python- Complete
+- 🔄 Course 8: Put It to Work: Prepare for Cybersecurity Jobs...
   
 
 
 ## 🧠 Hands-On Practice
 
-- **TryHackMe:** 🔄 SOC Level 1- path *In progress*
-- **Mimo:** 🔄 SQL-Path *In progress*
+ **TryHackMe:**
+- 🔄 Pre-Security- path *In progress*
+- 🔄 SOC Level 1- path *In progress*
+**Mimo:**
+- 🔄 SQL-Path *In progress*
 
 ## 🛠️ Tools I'm Learning
 - SQL
