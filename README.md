@@ -39,8 +39,10 @@ Currently completing the **Google Cybersecurity Certificate** – *7 courses dow
  **TryHackMe:**
 - 🔄 Pre-Security- path *In progress*
 - 🔄 SOC Level 1- path *In progress*
+  
 **Mimo:**
 - 🔄 SQL-Path *In progress*
+
 
 ## 🛠️ Tools I'm Learning
 - SQL
