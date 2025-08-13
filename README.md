@@ -27,8 +27,8 @@ Welcome! I'm on a mission to protect, audit, and analyze ethically in the digita
 ## 🧠 Hands-On Practice/ Learning Tools
 
  **TryHackMe:**
-- 🔄 Pre-Security- path *In progress*
-- 🔄 SOC Level 1- path *In progress*
+- 🔄 *In progress*
+- 🔄 
   
 **Mimo:**
 - 🔄 SQL-Path *In progress*
