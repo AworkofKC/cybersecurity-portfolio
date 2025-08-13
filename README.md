@@ -21,7 +21,7 @@ Welcome! I'm on a mission to protect, audit, and analyze ethically in the digita
 
 ## 📚 Coursework Progress
 
-**Google Cybersecurity Certificate** – Complete Aug 2025
+**Google Cybersecurity Certificate** – Completed Aug 2025
 
 
 ## 🧠 Hands-On Practice/ Learning Tools
