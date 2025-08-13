@@ -8,7 +8,6 @@ I’m KC — aka @AworkofKC — an analytical mind with a creative heart. With a
 ---
 
 Welcome! I'm on a mission to protect, audit, and analyze ethically in the digital world.  
-Currently completing the Google Cybersecurity Certificate.
 
 
 ## Areas of Focus/Interest
@@ -22,19 +21,10 @@ Currently completing the Google Cybersecurity Certificate.
 
 ## 📚 Coursework Progress
 
-Currently completing the **Google Cybersecurity Certificate** – *7 courses down ✅*
-- ✅ Course 1: Foundations of Cybersecurity - Complete
-- ✅ Course 2: Play It Safe – Manage Security Risks - Complete
-- ✅ Course 3: Connect and Protect: Networks and Network Security- Complete
-- ✅ Course 4: Tools of the Trade: Linux and SQL - Complete
-- ✅ Course 5: Assets, Threats, and Vulnerabilities - Complete
-- ✅ Course 6: Sound the Alarm: Detection and Response - Complete
-- ✅ Course 7: Automate Cybersecurity Tasks with Python- Complete
-- 🔄 Course 8: Put It to Work: Prepare for Cybersecurity Jobs...
-  
+**Google Cybersecurity Certificate** – Complete Aug 2025
 
 
-## 🧠 Hands-On Practice
+## 🧠 Hands-On Practice/ Learning Tools
 
  **TryHackMe:**
 - 🔄 Pre-Security- path *In progress*
