@@ -26,7 +26,7 @@ To support my learning, I’ve been leveraging:
 - 🤖 **AI tools** including ChatGPT (Reg) and Copilot
 - 📚 **Books** like MITRE’s 11 Strategies of a World-Class SOC
 
-These resources help me simplify complex concepts and build a clearer understanding of security tools, workflows, and threat defense strategies.
+These resources help me simplify complex concepts and build a clearer understanding of security tools, workflows, and threat defense strategies..
 
 
 <br>
