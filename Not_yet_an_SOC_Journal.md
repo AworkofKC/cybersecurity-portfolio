@@ -5,7 +5,7 @@
 - [Downloading Security Onion- ISO Image](#downloading-security-onion---iso-image)
 - [Download Verification](#download-verification)
 - [Security Onion Installation](#security-onion-installation)
-- [Problems & How I tackled them](#problems-&-how-i-tackled-them) *(during SO installation)*
+- [Problems & How I tackled them](#problems--how-i-tackled-them) *(during SO installation)*
 
 
 ## Introduction
@@ -109,9 +109,6 @@ Date: 08-25-2025
 
 ## Baseline Configurations & Environment
 
-**Index**
-
-
 
 ##
 **Date:** 08/25/2025
@@ -196,7 +193,7 @@ After multiple failed attempts and lessons learned from disk space issues, power
 
 ##
 
-## 🧐Problems & How I Tackled Them
+## Problems & How I Tackled Them
 
 This section documents the issues I ran into during my Security Onion install and lab setup. Some were small, some were frustrating, but each one taught me something. I’m logging them here with the cause, impact, resolution, and what I learned — not just for future reference, but to capture the actual process of figuring things out.  
 
