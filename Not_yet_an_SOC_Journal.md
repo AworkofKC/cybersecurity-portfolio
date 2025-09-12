@@ -6,7 +6,6 @@
 - [Download Verification](#download-verification)
 - [Security Onion Installation](#security-onion-installation)
 - [Problems & How I tackled them](#problems-&-how-i-tackled-them) *(during SO installation)*
-- [Importing PCAPS](importing-pcaps)
 
 
 ## Introduction
