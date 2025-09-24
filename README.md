@@ -7,31 +7,31 @@ I’m KC — aka @AworkofKC — an analytical mind with a creative heart. With a
 
 ---
 
-Welcome! I'm on a mission to protect, audit, and analyze ethically in the digital world.  
+Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and respond to digital threats. Passionate about SOC operations, network monitoring, and automating security workflows.
 
 
-## 🧐 Areas of Focus/Interest
+## 🧐 Areas of Focus / Interest
 
-- Cybersecurity Fundamentals  
-- Security Operations (SOC) Fundamentals
-- Risk & Vulnerability Management
-- Compliance & Governance
-- Incident Response & Digital Forensics
+- **SOC & Security Operations** – Monitoring alerts, analyzing logs, and triaging incidents
+- **Incident Response & Digital Forensics** – Investigating suspicious activity, packet captures, and log-based analysis
+- **Threat Detection & Vulnerability Management** – Identifying potential risks, analyzing vulnerabilities, and understanding mitigation strategies
+- **Automation in Security** – Scripting and tools to streamline alert analysis and threat detection
+- **Networking & Protocols** – TCP/IP, DNS, HTTP/S, and network traffic inspection
 
-## 🛠️ Tools I'm Learning  
+## 🛠️ Tools & Technologies I'm Learning
 
-- SQL
-- WireShark
-- Splunk
-- SIEM Tools
-- Linux
-- Python
+- **SIEM & Log Analysis:** Splunk, Wazuh, Elastic Stack
+- **Packet & Network Analysis:** Wireshark, basic Nmap scanning
+- **Scripting & Automation:** Python, Bash
+- **Operating Systems:** Linux (Ubuntu/Kali), Windows basics
+- **Data & Querying:** SQL for log queries and event correlation
 
 
-## 📚 Coursework Progress
+
+## 📖 Coursework/Certifications
 
 **Google Cybersecurity Certificate** -  ✅Completed Aug 2025  
-
+**CompTIA Security+ (SY0-701)** – ✅Earned September 2025
 
 
 
@@ -40,12 +40,11 @@ Welcome! I'm on a mission to protect, audit, and analyze ethically in the digita
 - Hands-on SQL activity practicing `WHERE`, `AND`, `OR`, and `NOT` filters — completed as part of the Google Cybersecurity Certificate.  
 📃 [*Apply Filters to SQL Queries (PDF)*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Apply%20filters%20to%20SQL%20queries.pdf)  
  
-- I created a cybersecurity cheat sheet to document what I’ve learned throughout the year from research, studies, and courses. It’s used as a quick reference for commonly used Linux commands, Python snippets, SQL queries, network capture commands (Wireshark, TCPDump), and practical examples. This is a living document that I continuously update as I learn through practice and other research.  
+- I created a cybersecurity cheat sheet to document what I’ve learned throughout the year from research, studies, and courses. It’s used as a quick reference for commonly used Linux commands, Python snippets, SQL queries, network capture commands (Wireshark,TCPDump), and practical examples. This is a living document that I continuously update as I learn through practice and other research.  
 📃 [*Cyber Security+ Cheet sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/blob/main/Cyber%20Security%2B%20Cheet%20sheet.xlsx)
 
 - As an aspiring SOC Analyst and Incident Responder, I am currently building my skills through hands-on experimentation and self-guided research. My journey is rooted in trial, error, and documentation—capturing both technical wins and the messy process behind them. I’ve been exploring open-source tools like Security Onion in a VirtualBox lab to simulate real-world monitoring and incident response workflows. This journal reflects my reasoning and learning opportunities as I explore what it means to think and act like an SOC Analyst.  
 📃 [*Not Yet an SOC Journal*](https://github.com/AworkofKC/cybersecurity-portfolio/blob/main/Not_yet_an_SOC_Journal.md)
-
 
 
 
