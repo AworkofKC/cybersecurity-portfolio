@@ -10,13 +10,23 @@ I’m KC — aka @AworkofKC — an analytical mind with a creative heart. With a
 Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and respond to digital threats. Passionate about SOC operations, network monitoring, and automating security workflows.
 
 
-## 🧐 Areas of Focus / Interest
+## 🧠 Areas of Focus / Interest
 
-- **SOC & Security Operations** – Monitoring alerts, analyzing logs, and triaging incidents
-- **Incident Response & Digital Forensics** – Investigating suspicious activity, packet captures, and log-based analysis
-- **Threat Detection & Vulnerability Management** – Identifying potential risks, analyzing vulnerabilities, and understanding mitigation strategies
-- **Automation in Security** – Scripting and tools to streamline alert analysis and threat detection
-- **Networking & Protocols** – TCP/IP, DNS, HTTP/S, and network traffic inspection
+- **SOC & Security Operations**  
+  Monitoring and analyzing alerts, triaging incidents, and improving operational efficiency.
+
+- **Incident Response & Digital Forensics**  
+  Investigating suspicious activity using packet captures, log analysis, and evidence-based response.
+
+- **Threat Detection & Vulnerability Management**  
+  Identifying potential risks, analyzing vulnerabilities, and applying mitigation strategies to strengthen defenses.
+
+- **Automation in Security**  
+  Developing scripts and tools that streamline alert handling, reduce false positives, and enhance detection accuracy.
+
+- **Networking & Protocols**  
+  Deep understanding of TCP/IP, DNS, HTTP/S, and network traffic behavior for better visibility and detection insight.
+  
 
 ## 🛠️ Tools & Technologies I'm Learning
 
@@ -27,15 +37,16 @@ Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and resp
 - **Data & Querying:** SQL for log queries and event correlation
 
 
-
 ## 📖 Coursework/Certifications
 
 **Google Cybersecurity Certificate** -  ✅Completed Aug 2025  
 **CompTIA Security+ (SY0-701)** – ✅Earned September 2025
 
+## 🧠 Hands-on learning/ Tools
+**TryHackMe** - SIEM Learning Path - *In progress*
 
 
-## 🧠 Hands-On Practice/ Learning Tools
+## ✍️ Independent Projects
 
 - Hands-on SQL activity practicing `WHERE`, `AND`, `OR`, and `NOT` filters — completed as part of the Google Cybersecurity Certificate.  
 📃 [*Apply Filters to SQL Queries (PDF)*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Apply%20filters%20to%20SQL%20queries.pdf)  
