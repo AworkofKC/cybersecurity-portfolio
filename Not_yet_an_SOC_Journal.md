@@ -6,6 +6,7 @@
 - [Download Verification](#download-verification)
 - [Security Onion Installation](#security-onion-installation)
 - [Problems & How I tackled them](#problems--how-i-tackled-them) *(during SO installation)*
+- [Reflection and Next steps](#reflection-and-next-steps)
 
 
 ## Introduction
@@ -469,3 +470,11 @@ Date:
 This was a huge learning opportunity. While reviewing installation logs and using `ip addr`, I realized both my `enp0s3` and `enp0s8` interfaces had the same IP, which I didn’t fully understand at first. I also misunderstood CIDR notation, thinking `/24` was a 4-octet address; I understand that it represents a 24-bit subnet mask. These mistakes caused confusion in network routing and setup failures.  
 
 Going forward, I now clearly understand the difference between static IP, gateway, and subnet, and I’ll ensure no IP conflicts exist before installation. 
+
+
+## Reflection and Next Steps
+Date: 11/10/2025
+
+Despite repeated attempts, I wasn’t able to get Security Onion’s GUI running in my lab. At first, I thought about removing this journal, but I realized that documenting the struggle is just as important as documenting the wins. Cybersecurity isn’t about flawless execution, it’s about persistence, troubleshooting, and learning from every misstep. This process gave me valuable insight into installation requirements, networking dependencies, and the challenges analysts face when building monitoring environments. Even though the outcome wasn’t what I hoped for, the lessons I captured here will guide me in future builds and strengthen my problem-solving approach.
+
+Moving forward, I plan to explore other SOC platforms such as Wazuh, and Splunk, while continuing hands-on practice through TryHackMe and other Blue Team online resources. My focus remains clear: building the skills to investigate alerts, understand signals, and respond effectively to incidents. This journal represents more than a failed install, it’s proof of my resilience, documentation, and a commitment to growth. Success in cybersecurity isn’t a straight line; it’s a series of iterations, and each one brings me closer to mastery.
