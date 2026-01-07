@@ -43,7 +43,7 @@ Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and resp
 **CompTIA Security+ (SY0-701)** – ✅Earned September 2025
 
 ## 🧠 Hands-on learning/ Tools
-**TryHackMe** - SIEM Learning Path - *In progress*
+**TryHackMe** - SOC Level 1 - *In progress*
 
 
 ## ✍️ Independent Projects
@@ -51,7 +51,7 @@ Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and resp
 - Hands-on SQL activity practicing `WHERE`, `AND`, `OR`, and `NOT` filters — completed as part of the Google Cybersecurity Certificate.  
 📃 [*Apply Filters to SQL Queries (PDF)*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Apply%20filters%20to%20SQL%20queries.pdf)  
  
-- I created a cybersecurity cheat sheet to document what I’ve learned throughout the year from research, studies, and courses. It’s used as a quick reference for commonly used Linux commands, Python snippets, SQL queries, network capture commands (Wireshark,TCPDump), and practical examples. This is a living document that I continuously update as I learn through practice and other research.  
+- I created a cybersecurity cheat sheet to document what I’ve learned throughout the year from research, studies, and courses. It’s used as a quick reference for commonly used Linux commands, Python snippets, SQL queries, network capture commands (Wireshark, TCPDump), and practical examples. This is a living document that I continuously update as I learn through practice and other research.  
 📃 [*Cyber Security+ Cheet sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Cyber%20Security%2B%20Cheet%20sheet.xlsx)
 
 - As an aspiring SOC Analyst and Incident Responder, I am currently building my skills through hands-on experimentation and self-guided research. My journey is rooted in trial, error, and documentation—capturing both technical wins and the messy process behind them. I’ve been exploring open-source tools like Security Onion in a VirtualBox lab to simulate real-world monitoring and incident response workflows. This journal reflects my reasoning and learning opportunities as I explore what it means to think and act like an SOC Analyst.  
