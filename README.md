@@ -37,6 +37,7 @@ Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and resp
 - **Data & Querying:** SQL for log queries and event correlation
 
 ## 🕵️‍♀️ SOC Investigation Simulations
+Hands-on SOC simulations documenting alert triage, phishing analysis, and incident response workflows.
 
 ## ✍️ Independent Projects
 
