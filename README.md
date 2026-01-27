@@ -36,15 +36,7 @@ Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and resp
 - **Operating Systems:** Linux (Ubuntu/Kali), Windows basics
 - **Data & Querying:** SQL for log queries and event correlation
 
-
-## 📖 Coursework/Certifications
-
-**Google Cybersecurity Certificate** -  ✅Completed Aug 2025  
-**CompTIA Security+ (SY0-701)** – ✅Earned September 2025
-
-## 🧠 Hands-on learning/ Tools
-**TryHackMe** - SOC Level 1 - *In progress*
-
+## 🕵️‍♀️ SOC Investigation Simulations
 
 ## ✍️ Independent Projects
 
@@ -58,9 +50,18 @@ Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and resp
 📃 [*Not Yet an SOC Journal*](https://github.com/AworkofKC/cybersecurity-portfolio/blob/main/Not_yet_an_SOC_Journal.md)
 
 
+## 📖 Coursework/Certifications
+
+**Google Cybersecurity Certificate** -  ✅Completed Aug 2025  
+**CompTIA Security+ (SY0-701)** – ✅Earned September 2025
+
+## 🧠 Hands-on learning/ Tools
+**TryHackMe** - SOC Level 1 - *In progress*
+
+
 
 ## Professional Statement:
-With a creative and administrative background, I’m now building a cybersecurity career focused on threat detection, incident response, and system defense. I’m committed to developing the technical skills needed to protect digital environments, while also bringing strong communication and problem-solving to every challenge. My goal is to help teams respond confidently to cyber threats and contribute to a safer, more resilient digital world.
+With a creative and administrative background, I’m now building a Cybersecurity career focused on threat detection, incident response, and system defense. I’m committed to developing the technical skills needed to protect digital environments, while also bringing strong communication and problem-solving to every challenge. My goal is to help teams respond confidently to cyber threats and contribute to a safer, more resilient digital world.
 
 
 🌟 Motto: *In a world full of hate, show love. Just Because.*
