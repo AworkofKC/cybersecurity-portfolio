@@ -39,15 +39,22 @@ Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and resp
 ## 🕵️‍♀️ SOC Investigation Simulations
 Hands-on SOC simulations documenting alert triage, phishing analysis, and incident response workflows.
 
+
 ## ✍️ Independent Projects
 
-- Hands-on SQL activity practicing `WHERE`, `AND`, `OR`, and `NOT` filters — completed as part of the Google Cybersecurity Certificate.  
-📃 [*Apply Filters to SQL Queries (PDF)*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Apply%20filters%20to%20SQL%20queries.pdf)  
- 
-- I created a cybersecurity cheat sheet to document what I’ve learned throughout the year from research, studies, and courses. It’s used as a quick reference for commonly used Linux commands, Python snippets, SQL queries, network capture commands (Wireshark, TCPDump), and practical examples. This is a living document that I continuously update as I learn through practice and other research.  
-📃 [*Cyber Security+ Cheet sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Cyber%20Security%2B%20Cheet%20sheet.xlsx)
+### 📊 SQL & Data Analysis
+**Apply Filters to SQL Queries**  
+Practiced filtering security logs using `WHERE`, `AND`, `OR`, and `NOT` operators to isolate suspicious activity. Displays the ability to query event data for SOC investigations.  
+📃 [*Apply Filters to SQL Queries (PDF)*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Apply%20filters%20to%20SQL%20queries.pdf)
 
-- As an aspiring SOC Analyst and Incident Responder, I am currently building my skills through hands-on experimentation and self-guided research. My journey is rooted in trial, error, and documentation—capturing both technical wins and the messy process behind them. I’ve been exploring open-source tools like Security Onion in a VirtualBox lab to simulate real-world monitoring and incident response workflows. This journal reflects my reasoning and learning opportunities as I explore what it means to think and act like an SOC Analyst.  
+### 🔧 Security Reference & Toolkit
+**Cybersecurity Cheat Sheet**  
+I created a cybersecurity cheat sheet to document what I've learned throughout the year from research, studies, and courses. It's used as a quick reference for commonly used Linux commands, Python snippets, SQL queries, network capture commands (Wireshark, TCPDump), and practical examples. This is a living document that I continuously update as I learn through practice and other research.  
+📃 [*Cyber Security+ Cheat sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Cyber%20Security%2B%20Cheet%20sheet.xlsx)
+
+### 🧪 Security Onion Lab Journal
+**Not Yet an SOC: Building a SOC Lab Through Trial and Error**  
+As an aspiring SOC Analyst and Incident Responder, I am currently building my skills through hands-on experimentation and self-guided research. My journey is rooted in trial and error, and in documenting both technical wins and the messy process behind them. I've been exploring open-source tools like Security Onion in a VirtualBox lab to simulate real-world monitoring and incident response workflows. This journal reflects my reasoning and learning opportunities as I explore what it means to think and act like an SOC Analyst.  
 📃 [*Not Yet an SOC Journal*](https://github.com/AworkofKC/cybersecurity-portfolio/blob/main/Not_yet_an_SOC_Journal.md)
 
 
@@ -62,7 +69,7 @@ Hands-on SOC simulations documenting alert triage, phishing analysis, and incide
 
 
 ## Professional Statement:
-With a creative and administrative background, I’m now building a Cybersecurity career focused on threat detection, incident response, and system defense. I’m committed to developing the technical skills needed to protect digital environments, while also bringing strong communication and problem-solving to every challenge. My goal is to help teams respond confidently to cyber threats and contribute to a safer, more resilient digital world.
+With a creative and administrative background, I’m now building a career in Cybersecurity focused on threat detection, incident response, and system defense. I’m committed to developing the technical skills needed to protect digital environments, while also bringing strong communication and problem-solving to every challenge. My goal is to help teams respond confidently to cyber threats and contribute to a safer, more resilient digital world.
 
 
 🌟 Motto: *In a world full of hate, show love. Just Because.*
