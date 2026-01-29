@@ -1,3 +1,8 @@
+## Quick Summary
+Failed to get Security Onion GUI running in VirtualBox after 15+ attempts. 
+Learned: networking fundamentals (CIDR, static IPs, gateways), VM configuration, 
+salt-stack basics, and systematic troubleshooting. Documented journey below.
+
 
 # Journal Index
 - [Introduction](#introduction)
