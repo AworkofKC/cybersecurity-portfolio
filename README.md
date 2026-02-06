@@ -39,6 +39,7 @@ Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and resp
 ## 🕵️‍♀️ SOC Investigation Simulations
 Hands-on SOC simulations documenting alert triage, phishing analysis, and incident response workflows.
 
+🗂️ [View Investigations](https://github.com/AworkofKC/cybersecurity-portfolio/blob/main/SOC%20Investigation%20Simulations/README.md)
 
 ## ✍️ Independent Projects
 
