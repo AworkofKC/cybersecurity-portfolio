@@ -3,7 +3,7 @@ Hands-on practice, learning notes, and projects focused on threat detection and 
 
 
 # 👩🏽‍💻 About Me
-I’m KC — aka @AworkofKC — an analytical mind with a creative heart. With a background in administrative and call center environments, I bring strong communication, organization, and meticulous attention to detail into my cybersecurity journey. I’m currently focused on learning threat detection, digital privacy, and core security principles through labs and self-guided study. This portfolio reflects my hands-on practice, learning exercises, and evolving understanding of the field.
+I’m KC aka @AworkofKC an analytical mind with a creative heart. With a background in administrative and call center environments, I bring strong communication, organization, and meticulous attention to detail into my cybersecurity journey. I’m currently focused on learning threat detection, digital privacy, and core security principles through labs and self-guided study. This portfolio reflects my hands-on practice, learning exercises, and evolving understanding of the field.
 
 ---
 
