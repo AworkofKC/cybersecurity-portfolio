@@ -1,4 +1,6 @@
 # 🔐 Cybersecurity Portfolio – AworkofKC
+![Last Commit](https://img.shields.io/github/last-commit/AworkofKC/cybersecurity-portfolio)
+
 Hands-on practice, learning notes, and projects focused on threat detection and foundational cybersecurity skills.
 
 
@@ -54,7 +56,7 @@ Practiced filtering security logs using `WHERE`, `AND`, `OR`, and `NOT` operator
 I created a cybersecurity cheat sheet to document what I've learned throughout the year from research, studies, and courses. It's used as a quick reference for commonly used Linux commands, Python snippets, SQL queries, network capture commands (Wireshark, TCPDump), and practical examples. This is a living document that I continuously update as I learn through practice and other research.  
 📅 Last updated: July 2026
 📥 Download to view/edit — feel free to copy and build on it as you learn.
-📃 [*Cyber Security+ Cheat sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Cyber%20Security%2B%20Cheet%20sheet%201.xlsx)
+📃 [*Cyber Security+ Cheat sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Cyber%20Security%2B%20Cheet%20sheet.xlsx)
 
 ### 🧪 Security Onion Lab Journal
 **Not Yet an SOC: Building a SOC Lab Through Trial and Error**  
