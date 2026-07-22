@@ -39,8 +39,8 @@ Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and resp
 - **Data & Querying:** SQL for log queries and event correlation
 
 ## 🕵️‍♀️ SOC Investigation Simulations
-Hands-on SOC simulations documenting alert triage, phishing analysis, and incident response workflows.
-📅 Last updated: February 2026  
+Hands-on SOC simulations documenting alert triage, phishing analysis, and incident response workflows.  
+📅 `Last updated: February 2026`  
 🗂️ [View Investigations](https://github.com/AworkofKC/cybersecurity-portfolio/blob/main/SOC%20Investigation%20Simulations/README.md)
 
 ## ✍️ Independent Projects
@@ -48,14 +48,14 @@ Hands-on SOC simulations documenting alert triage, phishing analysis, and incide
 ### 📊 SQL & Data Analysis
 **Apply Filters to SQL Queries**  
 Practiced filtering security logs using `WHERE`, `AND`, `OR`, and `NOT` operators to isolate suspicious activity. Displays the ability to query event data for SOC investigations.  
-📅 Completed: June 2025  
+📅 `Completed: June 2025`  
 📃 [*Apply Filters to SQL Queries (PDF)*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Apply%20filters%20to%20SQL%20queries.pdf)
 
 ### 🔧 Security Reference & Toolkit
 **Cybersecurity Cheat Sheet**  
 I created a cybersecurity cheat sheet to document what I've learned throughout the year from research, studies, and courses. It's used as a quick reference for commonly used Linux commands, Python snippets, SQL queries, network capture commands (Wireshark, TCPDump), and practical examples. This is a living document that I continuously update as I learn through practice and other research.  
-📅 Last updated: July 2026  
-📥 Download to view/edit — feel free to copy and build on it as you learn.  
+📅 `Last updated: July 2026`  
+📥 *Download to view/edit — feel free to copy and build on it as you learn.*  
 📃 [*Cyber Security+ Cheat sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Cyber%20Security%2B%20Cheet%20sheet.xlsx)
 
 ### 🧪 Security Onion Lab Journal
