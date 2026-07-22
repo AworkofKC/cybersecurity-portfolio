@@ -3,7 +3,7 @@ Hands-on practice, learning notes, and projects focused on threat detection and 
 
 
 # 👩🏽‍💻 About Me
-I’m KC — aka @AworkofKC — an analytical mind with a creative heart. With a background in administrative and call center environments, I bring strong communication, organization, and meticulous attention to detail into my cybersecurity journey. I’m currently focused on learning threat detection, digital privacy, and core security principles through labs and self-guided study. This portfolio reflects my hands-on practice, learning exercises, and evolving understanding of the field.
+I’m KC aka @AworkofKC an analytical mind with a creative heart. With a background in administrative and call center environments, I bring strong communication, organization, and meticulous attention to detail into my cybersecurity journey. I’m currently focused on learning threat detection, digital privacy, and core security principles through labs and self-guided study. This portfolio reflects my hands-on practice, learning exercises, and evolving understanding of the field.
 
 ---
 
@@ -51,7 +51,7 @@ Practiced filtering security logs using `WHERE`, `AND`, `OR`, and `NOT` operator
 ### 🔧 Security Reference & Toolkit
 **Cybersecurity Cheat Sheet**  
 I created a cybersecurity cheat sheet to document what I've learned throughout the year from research, studies, and courses. It's used as a quick reference for commonly used Linux commands, Python snippets, SQL queries, network capture commands (Wireshark, TCPDump), and practical examples. This is a living document that I continuously update as I learn through practice and other research.  
-📃 [*Cyber Security+ Cheat sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Cyber%20Security%2B%20Cheet%20sheet.xlsx)
+📃 [*Cyber Security+ Cheat sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Cyber%20Security%2B%20Cheet%20sheet%20.xlsx)
 
 ### 🧪 Security Onion Lab Journal
 **Not Yet an SOC: Building a SOC Lab Through Trial and Error**  
