@@ -38,7 +38,7 @@ Welcome! I'm building hands-on cybersecurity skills to detect, analyze, and resp
 
 ## 🕵️‍♀️ SOC Investigation Simulations
 Hands-on SOC simulations documenting alert triage, phishing analysis, and incident response workflows.
-
+📅 Last updated: February 2026
 🗂️ [View Investigations](https://github.com/AworkofKC/cybersecurity-portfolio/blob/main/SOC%20Investigation%20Simulations/README.md)
 
 ## ✍️ Independent Projects
@@ -46,31 +46,35 @@ Hands-on SOC simulations documenting alert triage, phishing analysis, and incide
 ### 📊 SQL & Data Analysis
 **Apply Filters to SQL Queries**  
 Practiced filtering security logs using `WHERE`, `AND`, `OR`, and `NOT` operators to isolate suspicious activity. Displays the ability to query event data for SOC investigations.  
+📅 Completed: June 2025
 📃 [*Apply Filters to SQL Queries (PDF)*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Apply%20filters%20to%20SQL%20queries.pdf)
 
 ### 🔧 Security Reference & Toolkit
 **Cybersecurity Cheat Sheet**  
 I created a cybersecurity cheat sheet to document what I've learned throughout the year from research, studies, and courses. It's used as a quick reference for commonly used Linux commands, Python snippets, SQL queries, network capture commands (Wireshark, TCPDump), and practical examples. This is a living document that I continuously update as I learn through practice and other research.  
-📃 [*Cyber Security+ Cheat sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Cyber%20Security%2B%20Cheet%20sheet%20.xlsx)
+📅 Last updated: July 2026
+📥 Download to view/edit — feel free to copy and build on it as you learn.
+📃 [*Cyber Security+ Cheat sheet.xlsx*](https://github.com/AworkofKC/cybersecurity-portfolio/raw/main/Cyber%20Security%2B%20Cheet%20sheet%201.xlsx)
 
 ### 🧪 Security Onion Lab Journal
 **Not Yet an SOC: Building a SOC Lab Through Trial and Error**  
 As an aspiring SOC Analyst and Incident Responder, I am currently building my skills through hands-on experimentation and self-guided research. My journey is rooted in trial and error, and in documenting both technical wins and the messy process behind them. I've been exploring open-source tools like Security Onion in a VirtualBox lab to simulate real-world monitoring and incident response workflows. This journal reflects my reasoning and learning opportunities as I explore what it means to think and act like an SOC Analyst.  
+
+👀 **What to expect:** This is a detailed troubleshooting log, not a polished success story — it documents 10+ real install attempts, errors, and fixes 
+(networking, VM config, SaltStack) from Aug–Nov 2025, including a final reflection on what I learned even though I didn't get the GUI fully running.
 📃 [*Not Yet an SOC Journal*](https://github.com/AworkofKC/cybersecurity-portfolio/blob/main/Not_yet_an_SOC_Journal.md)
 
 
 ## 📖 Coursework/Certifications
 
-**Google Cybersecurity Certificate** -  ✅Completed Aug 2025  
-**CompTIA Security+ (SY0-701)** – ✅Earned September 2025
+**B.S. Cybersecurity** — Western Governors University (WGU), *(In Progress)*  
+**Google Cybersecurity Certificate** — ✅ Completed Aug 2025  
+**CompTIA Security+ (SY0-701)** — ✅ Earned September 2025
 
 ## 🧠 Hands-on learning/ Tools
-**TryHackMe** - SOC Level 1 - *In progress*
 
-
-
-## Professional Statement:
-With a creative and administrative background, I’m now building a career in Cybersecurity focused on threat detection, incident response, and system defense. I’m committed to developing the technical skills needed to protect digital environments, while also bringing strong communication and problem-solving to every challenge. My goal is to help teams respond confidently to cyber threats and contribute to a safer, more resilient digital world.
+**TryHackMe** — Top 15% rank · 37 completed rooms · 11 badges  
+Includes: SOC Apprentice, Defensive Toolsmith, Phish Hunter, 100% True Positive Rate (detection scenario)
 
 
 🌟 Motto: *In a world full of hate, show love. Just Because.*
